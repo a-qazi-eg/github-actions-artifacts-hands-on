@@ -28,4 +28,4 @@ jobs:
         name: hello-artifact
     - name: Content
       run: |
-       echo hello.txt
+       cat hello.txt
